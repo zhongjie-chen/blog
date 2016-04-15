@@ -1,0 +1,21 @@
+# Site settings
+title: zhongjie-chen Blog
+header-img: img/home-bg.jpg
+email: czjchn@163.com
+copyright_name: Your/Project/Corporate Name
+description: "这是描述"
+baseurl: "/blog"
+url: "http://yourdomain.com"
+twitter_username: twitter_username
+github_username:  zhongjie-chen
+facebook_username:  facebook_username
+email_username:  czjchn@163.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
