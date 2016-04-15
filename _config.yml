@@ -1,11 +1,11 @@
 # Site settings
-title: zhongjie-chen Blog
+title: 陈忠杰的博客
 header-img: img/home-bg.jpg
 email: czjchn@163.com
-copyright_name: Your/Project/Corporate Name
-description: "这是描述"
+copyright_name: chenzhongjie
+description: "记录东西"
 baseurl: "/blog"
-url: "http://yourdomain.com"
+url: "https://github.com/zhongjie-chen"
 twitter_username: twitter_username
 github_username:  zhongjie-chen
 facebook_username:  facebook_username
