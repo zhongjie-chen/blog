@@ -1,0 +1,9 @@
+---
+layout:     post
+title:      "我为什么写博客"
+subtitle:   "对程序员来说重要吗"
+date:       2016-04-16 21:00:00
+author:     "zhongjie-chen"
+header-img: "img/post-bg-06.jpg"
+---
+#背景
