@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "《看漫画，学 Redux"
+title:      "《看漫画》，学 Redux"
 date:       2015-09-18 12:00:00
 author:     "jasonslyvia"
 header-img: "img/post-bg-05.jpg"
@@ -8,6 +8,7 @@ header-img: "img/post-bg-05.jpg"
 
 # 《看漫画，学 Redux》 —— A cartoon intro to Redux
 >[转载](https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn)
+
 > 不写一行代码，轻松看懂 Redux 原理。 [原文](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207)
 >
 > 如果你有任何疑惑，不妨在 [Issues](https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn/issues) 中提出。
