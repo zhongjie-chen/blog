@@ -1,5 +1,5 @@
 #Blog
 
 
-###[Go](http://zhongjie-chen.github.io/blog/)
+###[Go blog](http://zhongjie-chen.github.io/blog/)
 
