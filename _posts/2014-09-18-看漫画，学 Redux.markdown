@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "《看漫画》，学 Redux"
+title:      "《看漫画》，学 Redux。"
 date:       2015-09-18 12:00:00
 author:     "zhongjie-chen"
 header-img: "img/post-bg-05.jpg"
@@ -238,10 +238,3 @@ Provider 本质上创建了一个用于更新视图组件的网络。那些智�
  - [如何评价数据流管理架构 Redux?](https://www.zhihu.com/question/38591713/answer/77634014)
 
 转载：https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn
-
-
-
-
-
-
-
