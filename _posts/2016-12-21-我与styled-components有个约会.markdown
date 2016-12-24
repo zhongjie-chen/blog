@@ -28,20 +28,20 @@ header-img: "img/post-bg-05.jpg"
 这可以减少很大的代码量。当我们一开始将`CSS`转换成`styled-components`的形式,我们看到了戏剧性的改变。
 
 ![](/blog/img/sc_2.png)
-*A portion of our original CSS*
+*原始写法*
 
 ![](/blog/img/sc_3.png)
-*The same styles converted to a styled-components component.*
+*相同样式用styled-components写的component。*
 
 # 更简洁的JSX
 
 如果你像我一样,你会发现你的`JSX`散落着`< div >和< span >`,你将会很高兴的知道styled-components会让你的默认样式标签更加具有`语意化`。
 
 ![](/blog/img/sc_4.png)
-*Original JSX with class hooks for styling*
+*原始JSX插入样式*
 
 ![](/blog/img/sc_5.png)
-*After converting to styled-components No more className! and look at those semantic tags.*
+*用styled-components转换后 不需要className! 看起来更具有语意化的标签*
 
 我肯定你的`JSX`已经看起来像第二个例子:P,但如果还没有,`styled-components`可以帮助你成功到达该境界。
 
@@ -52,7 +52,7 @@ header-img: "img/post-bg-05.jpg"
 这是因为`styled-components`是通过组件的形式,而不是`DOM`元素。
 
 ![](/blog/img/sc_6.png)
-*Here we compose Message into two new components, Success and Danger.*
+*组合Message形成两个新的components, Success和Danger。*
 
 # Prop过滤
 
@@ -63,10 +63,10 @@ header-img: "img/post-bg-05.jpg"
 为了避免上述`unknown-prop`警告我们开始过滤`props`不是有效的`DOM props`。因垂死听的是`styled-components`已经在内部很好得解决了这个问题,我们避免去做有效属性的白名单。
 
 ![](/blog/img/sc_7.png)
-*We had a function to filter DOM props that we could use to ensure only valid DOM props were passed to things like  &gt;span&lt;*
+*我们有一个函数来过滤DOM Props，只让有效的Props传进DOM里面，比如&lt;span&gt;*
 
 ![](/blog/img/sc_8.png)
-*Using styled-components we get this whitelist for free, even if we don’t need any styles!*
+*使用styled-components我们可以免费得到白名单, 即使我们不需要任何样式!*
 
 以上是我们自从开始使用`styled-components`得出来的好处，随着使用时间的推移我相信将会有更多好处。
 
