@@ -6,8 +6,7 @@ author:     "zhongjie-chen"
 header-img: "img/post-bg-05.jpg"
 ---
 
-> 转载请说明出处 [原文](http://zhongjie-chen.github.io/blog/2016/12/21/%E6%88%91%E4%B8%8Estyled-components%E6%9C%89%E4%B8%AA%E7%BA%A6%E4%BC%9A/)
->>本文章为翻译加个人评价 [译文](https://medium.com/@jamiedixon/styled-components-production-patterns-c22e24b1d896#.9q4p5gejo)
+> 转载请说明出处 [原文](http://zhongjie-chen.github.io/blog/2016/12/21/%E6%88%91%E4%B8%8Estyled-components%E6%9C%89%E4%B8%AA%E7%BA%A6%E4%BC%9A/)，本文章为翻译加个人评价 [译文](https://medium.com/@jamiedixon/styled-components-production-patterns-c22e24b1d896#.9q4p5gejo)
 
 [styled-components](https://styled-components.com/)是一个能够让你在React或React-native组件里面编写css的库，它的写法可以让css混合在js里面。
 
@@ -64,7 +63,7 @@ header-img: "img/post-bg-05.jpg"
 为了避免上述`unknown-prop`警告我们开始过滤`props`不是有效的`DOM props`。因垂死听的是`styled-components`已经在内部很好得解决了这个问题,我们避免去做有效属性的白名单。
 
 ![](/blog/img/sc_7.png)
-*We had a function to filter DOM props that we could use to ensure only valid DOM props were passed to things like  &gt span &lt*
+*We had a function to filter DOM props that we could use to ensure only valid DOM props were passed to things like  &gt;span&lt;*
 
 ![](/blog/img/sc_8.png)
 *Using styled-components we get this whitelist for free, even if we don’t need any styles!*
