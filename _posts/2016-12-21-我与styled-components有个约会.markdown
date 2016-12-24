@@ -74,7 +74,7 @@ header-img: "img/post-bg-05.jpg"
 为了避免上述`unknown-prop`警告我们开始过滤`props`不是有效的`DOM props`。因垂死听的是`styled-components`已经在内部很好得解决了这个问题,我们避免去做有效属性的白名单。
 
 ![](/blog/img/sc_7.png)
-*We had a function to filter DOM props that we could use to ensure only valid DOM props were passed to things like <span>*
+*We had a function to filter DOM props that we could use to ensure only valid DOM props were passed to things like ``<span>`` *
 
 ![](/blog/img/sc_8.png)
 *Using styled-components we get this whitelist for free, even if we don’t need any styles!*
