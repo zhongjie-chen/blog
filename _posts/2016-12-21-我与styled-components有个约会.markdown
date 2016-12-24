@@ -22,7 +22,9 @@ header-img: "img/post-bg-05.jpg"
 *图片来自[ https://styled-components.com/]( https://styled-components.com/)*
 
 最近一段时间我们使用styled-components应用到我们的项目中，我想写一些我们的使用心得。
+
 ***
+
 # 更少的Styles
 
 因为`styled-components`允许我们以函数的形式表现css的值,我们可以切换不同样式基于传入组件的`props`值，而不是像经典的写法添加新的类到`HTML`中。
