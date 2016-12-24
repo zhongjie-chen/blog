@@ -8,7 +8,7 @@ header-img: "img/post-bg-05.jpg"
 
 # 我与styled-components
 
-> 转载请说明出处 [原文]()
+> 转载请说明出处 [原文](http://zhongjie-chen.github.io/blog/2016/12/21/%E6%88%91%E4%B8%8Estyled-components%E6%9C%89%E4%B8%AA%E7%BA%A6%E4%BC%9A/)
 
 > 本文章为翻译加个人评价 [译文](https://medium.com/@jamiedixon/styled-components-production-patterns-c22e24b1d896#.9q4p5gejo)
 
@@ -64,4 +64,4 @@ header-img: "img/post-bg-05.jpg"
 
 以上是我们自从开始使用`styled-components`得出来的好处，随着使用时间的推移我相信将会有更多好处。
 
-非常感谢Max Stoiber和Glen Maddern开发的`styled-components`。
+非常感谢[Max Stoiber](https://twitter.com/mxstbr)和[Glen Maddern](https://twitter.com/glenmaddern)开发的`styled-components`。
