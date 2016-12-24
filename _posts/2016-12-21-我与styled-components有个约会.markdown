@@ -3,7 +3,7 @@ layout:     post
 title:      "我与styled-components有个约会"
 date:       2016-12-24 20:30:00
 author:     "zhongjie-chen"
-header-img: "img/post-bg-05.jpg"
+header-img: "img/banner3.jpeg"
 ---
 
 > 转载请说明出处 [原文](http://zhongjie-chen.github.io/blog/2016/12/21/%E6%88%91%E4%B8%8Estyled-components%E6%9C%89%E4%B8%AA%E7%BA%A6%E4%BC%9A/)，本文章为翻译加个人评价 [译文](https://medium.com/@jamiedixon/styled-components-production-patterns-c22e24b1d896#.9q4p5gejo)
