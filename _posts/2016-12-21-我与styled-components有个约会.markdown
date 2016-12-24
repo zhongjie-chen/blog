@@ -6,11 +6,11 @@ author:     "zhongjie-chen"
 header-img: "img/banner3.jpeg"
 ---
 
-> 转载请说明出处 [原文](http://zhongjie-chen.github.io/blog/2016/12/21/%E6%88%91%E4%B8%8Estyled-components%E6%9C%89%E4%B8%AA%E7%BA%A6%E4%BC%9A/)，[https://github.com/zhongjie-chen](https://github.com/zhongjie-chen)，本文章为翻译加个人评价 [译文](https://medium.com/@jamiedixon/styled-components-production-patterns-c22e24b1d896#.9q4p5gejo)
+> 转载请说明出处 [原文](http://zhongjie-chen.github.io/blog/2016/12/24/%E6%88%91%E4%B8%8Estyled-components%E6%9C%89%E4%B8%AA%E7%BA%A6%E4%BC%9A/)，[https://github.com/zhongjie-chen](https://github.com/zhongjie-chen)，本文章为翻译加个人看法 [译文](https://medium.com/@jamiedixon/styled-components-production-patterns-c22e24b1d896#.9q4p5gejo)
 
 [styled-components](https://styled-components.com/)是一个能够让你在React或React-native组件里面编写css的库，它的写法可以让css混合在js里面。
 
-如果你不熟悉[styled-components](https://styled-components.com/)可以去我们的官网去查看。
+如果你不熟悉[styled-components](https://styled-components.com/)可以去我们的官网查看。
 
 ***
 
@@ -84,13 +84,6 @@ header-img: "img/banner3.jpeg"
 
 3.`styled-components`可以让CSS真正意义地写到JS里面，同时让标签更具有语意化，这跟HTML5新标签思想相同；该框架让样式也具备组件化思想，让前端完全面向组件化编程，就像java的包装类型。
 
-``` JavaScript
-  function* last() {
-    let a = "123";
-    let b = 123;
-    let c = false;
-    for (var i = 0; i < array.length; i++) {
-      array[i]
-    }
-  }
-```
+#### 尾巴
+
+今天是2016年圣诞节，这是我第一次写博客，希望通过该方式提高自己各方面的水平；如果恰巧也能帮助到你，与君共勉。
