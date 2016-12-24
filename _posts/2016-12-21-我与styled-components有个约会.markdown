@@ -6,7 +6,7 @@ author:     "zhongjie-chen"
 header-img: "img/banner3.jpeg"
 ---
 
-> 转载请说明出处 [原文](http://zhongjie-chen.github.io/blog/2016/12/21/%E6%88%91%E4%B8%8Estyled-components%E6%9C%89%E4%B8%AA%E7%BA%A6%E4%BC%9A/)，本文章为翻译加个人评价 [译文](https://medium.com/@jamiedixon/styled-components-production-patterns-c22e24b1d896#.9q4p5gejo)
+> 转载请说明出处 [原文](http://zhongjie-chen.github.io/blog/2016/12/21/%E6%88%91%E4%B8%8Estyled-components%E6%9C%89%E4%B8%AA%E7%BA%A6%E4%BC%9A/)，[https://github.com/zhongjie-chen](https://github.com/zhongjie-chen)，本文章为翻译加个人评价 [译文](https://medium.com/@jamiedixon/styled-components-production-patterns-c22e24b1d896#.9q4p5gejo)
 
 [styled-components](https://styled-components.com/)是一个能够让你在React或React-native组件里面编写css的库，它的写法可以让css混合在js里面。
 
@@ -83,3 +83,5 @@ header-img: "img/banner3.jpeg"
 2.后面使用[CSS Modules](https://github.com/css-modules/css-modules)可以让组件className控制权转交给JS，我们不会去关心命名冲突污染等问题，同时可以灵活控制生成的命名，同时引入以前产品的成本接近于0，还可以使用预处理器和后处理器。
 
 3.`styled-components`可以让CSS真正意义地写到JS里面，同时让标签更具有语意化，这跟HTML5新标签思想相同；该框架让样式也具备组件化思想，让前端完全面向组件化编程，就像java的包装类型。
+
+![](http://b65.photo.store.qq.com/psu?/d3e1a50b-4a70-4eb1-8fe6-190430068c99/TLR9*zU0C22imtIyHYNz.f2OkxJKjPBa8aM5ME*GgOs!/b/YdcVaCSQOAAAYvmJzSZfGwAA&a=61&b=65&bo=ngLTAQAAAAABAGk!&rf=viewer_4)
