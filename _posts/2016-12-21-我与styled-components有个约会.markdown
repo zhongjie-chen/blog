@@ -86,6 +86,11 @@ header-img: "img/banner3.jpeg"
 
 ``` JavaScript
   function* last() {
-
+    let a = "123";
+    let b = 123;
+    let c = false;
+    for (var i = 0; i < array.length; i++) {
+      array[i]
+    }
   }
 ```
