@@ -84,4 +84,8 @@ header-img: "img/banner3.jpeg"
 
 3.`styled-components`可以让CSS真正意义地写到JS里面，同时让标签更具有语意化，这跟HTML5新标签思想相同；该框架让样式也具备组件化思想，让前端完全面向组件化编程，就像java的包装类型。
 
-![](http://b65.photo.store.qq.com/psu?/d3e1a50b-4a70-4eb1-8fe6-190430068c99/TLR9*zU0C22imtIyHYNz.f2OkxJKjPBa8aM5ME*GgOs!/b/YdcVaCSQOAAAYvmJzSZfGwAA&a=61&b=65&bo=ngLTAQAAAAABAGk!&rf=viewer_4)
+``` JavaScript
+  function* last() {
+
+  }
+```
