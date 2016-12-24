@@ -32,7 +32,7 @@ header-img: "img/post-bg-05.jpg"
 这可以减少很大的代码量。当我们一开始将`CSS`转换成`styled-components`的形式,我们看到了戏剧性的改变。
 
 ![](/blog/img/sc_2.png)
-- A portion of our original CSS
+**A portion of our original CSS**
 
 ![](/blog/img/sc_3.png)
 - The same styles converted to a styled-components component.
