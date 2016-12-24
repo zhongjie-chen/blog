@@ -23,7 +23,7 @@ header-img: "img/post-bg-05.jpg"
 
 # 更少的Styles
 
-因为`styled-components`允许我们以函数的形式表现css的值,我们可以切换不同样式基于传入组件的`props`值，而不是像经典的写法添加新的类到`HTML`中。
+因为`styled-components`允许我们以函数的形式表现`css`的值,我们可以切换不同样式基于传入组件的`props`值，而不是像经典的写法添加新的类到`HTML`中。
 
 这可以减少很大的代码量。当我们一开始将`CSS`转换成`styled-components`的形式,我们看到了戏剧性的改变。
 
@@ -75,3 +75,7 @@ header-img: "img/post-bg-05.jpg"
 ***
 
 # 个人看法
+- 个人看法
+- - 个人看法
+- - 个人看法
+- - 个人看法
