@@ -1,7 +1,7 @@
 # Site settings
 title: undefined
 header-img: img/home-bg.jpg
-email: czjchn@163.com
+email: chenzjchina@gmail.com
 copyright_name: chenzhongjie
 description: "记录东西"
 baseurl: "/blog"
@@ -9,7 +9,7 @@ url: "https://github.com/zhongjie-chen"
 #twitter_username: twitter_username
 github_username:  zhongjie-chen
 #facebook_username:  facebook_username
-email_username:  czjchn@163.com
+email_username:  chenzjchina@gmail.com
 
 # Build settings
 markdown: kramdown
