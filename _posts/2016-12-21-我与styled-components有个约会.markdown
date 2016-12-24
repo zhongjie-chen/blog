@@ -18,7 +18,7 @@ header-img: "img/post-bg-05.jpg"
 
 以下是styled-component基本写法的组件：
 
-![](../img/sc_1.png)
+![](/blog/img/sc_1.png)
 
 最近一段时间我们使用styled-components应用到我们的项目中，我想写一些我们的使用心得。
 
@@ -28,17 +28,17 @@ header-img: "img/post-bg-05.jpg"
 
 这可以减少很大的代码量。当我们一开始将`CSS`转换成`styled-components`的形式,我们看到了戏剧性的改变。
 
-![](../img/sc_2.png)
+![](/blog/img/sc_2.png)
 
-![](../img/sc_3.png)
+![](/blog/img/sc_3.png)
 
 # 更简洁的JSX
 
 如果你像我一样,你会发现你的`JSX`散落着`< div >和< span >`,你将会很高兴的知道styled-components会让你的默认样式标签更加具有`语意化`。
 
-![](../img/sc_4.png)
+![](/blog/img/sc_4.png)
 
-![](../img/sc_5.png)
+![](/blog/img/sc_5.png)
 
 我肯定你的`JSX`已经看起来像第二个例子:P,但如果还没有,`styled-components`可以帮助你成功到达该境界。
 
@@ -48,7 +48,7 @@ header-img: "img/post-bg-05.jpg"
 
 这是因为`styled-components`是通过组件的形式,而不是`DOM`元素。
 
-![](../img/sc_6.png)
+![](/blog/img/sc_6.png)
 
 # Prop过滤
 
@@ -58,9 +58,9 @@ header-img: "img/post-bg-05.jpg"
 
 为了避免上述`unknown-prop`警告我们开始过滤`props`不是有效的`DOM props`。因垂死听的是`styled-components`已经在内部很好得解决了这个问题,我们避免去做有效属性的白名单。
 
-![](../img/sc_7.png)
+![](/blog/img/sc_7.png)
 
-![](../img/sc_8.png)
+![](/blog/img/sc_8.png)
 
 以上是我们自从开始使用`styled-components`得出来的好处，随着使用时间的推移我相信将会有更多好处。
 
