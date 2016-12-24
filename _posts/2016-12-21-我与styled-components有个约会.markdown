@@ -18,7 +18,8 @@ header-img: "img/post-bg-05.jpg"
 
 以下是styled-component基本写法的组件：
 
-![](blog/img/sc_1.png)*图片来自[ https://styled-components.com/]( https://styled-components.com/)*
+![](/blog/img/sc_1.png)
+*图片来自[ https://styled-components.com/]( https://styled-components.com/)*
 
 最近一段时间我们使用styled-components应用到我们的项目中，我想写一些我们的使用心得。
 ***
@@ -28,32 +29,43 @@ header-img: "img/post-bg-05.jpg"
 
 这可以减少很大的代码量。当我们一开始将`CSS`转换成`styled-components`的形式,我们看到了戏剧性的改变。
 
-![](/blog/img/sc_2.png)*A portion of our original CSS
+![](/blog/img/sc_2.png)
+*A portion of our original CSS
 *
 
-![](/blog/img/sc_3.png)*The same styles converted to a styled-components component.
+![](/blog/img/sc_3.png)
+*The same styles converted to a styled-components component.
 *
+
 ***
+
 # 更简洁的JSX
 
 如果你像我一样,你会发现你的`JSX`散落着`< div >和< span >`,你将会很高兴的知道styled-components会让你的默认样式标签更加具有`语意化`。
 
-![](/blog/img/sc_4.png)*Original JSX with class hooks for styling*
+![](/blog/img/sc_4.png)
+*Original JSX with class hooks for styling*
 
-![](/blog/img/sc_5.png)*After converting to styled-components No more className! and look at those semantic tags.
+![](/blog/img/sc_5.png)
+*After converting to styled-components No more className! and look at those semantic tags.
 *
 
 我肯定你的`JSX`已经看起来像第二个例子:P,但如果还没有,`styled-components`可以帮助你成功到达该境界。
+
 ***
+
 # 合成Styles
 
 这是我最喜欢的功能之一。一旦你创建了一个`styled component`可以很轻松地组合成一个新的`styled component`。
 
 这是因为`styled-components`是通过组件的形式,而不是`DOM`元素。
 
-![](/blog/img/sc_6.png)*Here we compose Message into two new components, Success and Danger.
+![](/blog/img/sc_6.png)
+*Here we compose Message into two new components, Success and Danger.
 *
+
 ***
+
 # Prop过滤
 
 自从`React15.2.0`,未知的`DOM`元素上的属性会报一个`unknown-prop`警告。这意味着,如果我们做``< div foo = " foo " >``我们会得到一个警告,``“foo”``不是一个已知的属性。
@@ -62,11 +74,15 @@ header-img: "img/post-bg-05.jpg"
 
 为了避免上述`unknown-prop`警告我们开始过滤`props`不是有效的`DOM props`。因垂死听的是`styled-components`已经在内部很好得解决了这个问题,我们避免去做有效属性的白名单。
 
-![](/blog/img/sc_7.png)*We had a function to filter DOM props that we could use to ensure only valid DOM props were passed to things like <span>*
+![](/blog/img/sc_7.png)
+*We had a function to filter DOM props that we could use to ensure only valid DOM props were passed to things like <span>*
 
-![](/blog/img/sc_8.png)*Using styled-components we get this whitelist for free, even if we don’t need any styles!
+![](/blog/img/sc_8.png)
+*Using styled-components we get this whitelist for free, even if we don’t need any styles!
 *
 
 以上是我们自从开始使用`styled-components`得出来的好处，随着使用时间的推移我相信将会有更多好处。
+
 ***
+
 非常感谢[Max Stoiber](https://twitter.com/mxstbr)和[Glen Maddern](https://twitter.com/glenmaddern)开发的`styled-components`。
