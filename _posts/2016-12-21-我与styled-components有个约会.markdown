@@ -22,8 +22,6 @@ header-img: "img/post-bg-05.jpg"
 
 最近一段时间我们使用styled-components应用到我们的项目中，我想写一些我们的使用心得。
 
-***
-
 # 更少的Styles
 
 因为`styled-components`允许我们以函数的形式表现css的值,我们可以切换不同样式基于传入组件的`props`值，而不是像经典的写法添加新的类到`HTML`中。
@@ -35,9 +33,6 @@ header-img: "img/post-bg-05.jpg"
 
 ![](/blog/img/sc_3.png)
 *The same styles converted to a styled-components component.*
-
-
-***
 
 # 更简洁的JSX
 
@@ -51,8 +46,6 @@ header-img: "img/post-bg-05.jpg"
 
 我肯定你的`JSX`已经看起来像第二个例子:P,但如果还没有,`styled-components`可以帮助你成功到达该境界。
 
-***
-
 # 合成Styles
 
 这是我最喜欢的功能之一。一旦你创建了一个`styled component`可以很轻松地组合成一个新的`styled component`。
@@ -61,8 +54,6 @@ header-img: "img/post-bg-05.jpg"
 
 ![](/blog/img/sc_6.png)
 *Here we compose Message into two new components, Success and Danger.*
-
-***
 
 # Prop过滤
 
@@ -80,6 +71,8 @@ header-img: "img/post-bg-05.jpg"
 
 以上是我们自从开始使用`styled-components`得出来的好处，随着使用时间的推移我相信将会有更多好处。
 
+非常感谢[Max Stoiber](https://twitter.com/mxstbr)和[Glen Maddern](https://twitter.com/glenmaddern)开发的`styled-components`。
+
 ***
 
-非常感谢[Max Stoiber](https://twitter.com/mxstbr)和[Glen Maddern](https://twitter.com/glenmaddern)开发的`styled-components`。
+# 个人看法
