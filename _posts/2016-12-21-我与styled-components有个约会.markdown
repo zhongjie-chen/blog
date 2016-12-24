@@ -6,7 +6,7 @@ author:     "zhongjie-chen"
 header-img: "img/banner3.png"
 ---
 
-> 转载请说明出处 [原文](http://zhongjie-chen.github.io/blog/2016/12/24/%E6%88%91%E4%B8%8Estyled-components%E6%9C%89%E4%B8%AA%E7%BA%A6%E4%BC%9A/)，[https://github.com/zhongjie-chen](https://github.com/zhongjie-chen)，[banner设计师](http://i.ui.cn/ucenter/108227.html)本文章为翻译加个人看法 [译文](https://medium.com/@jamiedixon/styled-components-production-patterns-c22e24b1d896#.9q4p5gejo)
+> 转载请说明出处 [原文](http://zhongjie-chen.github.io/blog/2016/12/24/%E6%88%91%E4%B8%8Estyled-components%E6%9C%89%E4%B8%AA%E7%BA%A6%E4%BC%9A/)，[https://github.com/zhongjie-chen](https://github.com/zhongjie-chen)，[banner设计师](http://i.ui.cn/ucenter/108227.html)，本文章为翻译加个人看法 [译文](https://medium.com/@jamiedixon/styled-components-production-patterns-c22e24b1d896#.9q4p5gejo)
 
 [styled-components](https://styled-components.com/)是一个能够让你在React或React-native组件里面编写css的库，它的写法可以让css混合在js里面。
 
